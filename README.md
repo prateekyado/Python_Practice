@@ -5,8 +5,8 @@ This repository contains my Python fundamentals revision for Data Science and Ma
 ## Topics Covered
 - Basics
 - Control Flow
-- Functions
 - Data Structures
+- Functions
 - OOP
 - File Handling
 - NumPy
